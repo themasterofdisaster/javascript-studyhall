@@ -1,5 +1,5 @@
 /*
-    EXPECT Assertion Style
+    EXPECT ASSERTION STYLE
 
     Assertion style 'expect', allows you to chain together natural language assertions to write readable tests in a BDD style. 
 

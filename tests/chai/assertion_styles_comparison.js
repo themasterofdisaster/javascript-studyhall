@@ -1,5 +1,5 @@
 /*
-    Assertion Styles Comparison
+    ASSERTION STYLES COMPARISON
 */
 
 //import chai to the file by creating a variable: 
