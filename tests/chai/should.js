@@ -1,5 +1,5 @@
 /*
-    SHOULD ASSERTION STYLE
+    SHOULD ASSERTION STYLE  
 
     'should' interface extends Object.Prototype to provide a single getter as the starting point for language assertions.
         should -> Object.Prototype - a.should

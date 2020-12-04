@@ -24,7 +24,7 @@ Create a project (I created something simple using Visual Studio Code).
 And add the Chai library to the project by running the following on the terminal
 
 Make sure to navigate to the project path
-`npn install chai -save-dev     `
+`npm install chai -save-dev`
 
 
 ### Running Chai Tests
