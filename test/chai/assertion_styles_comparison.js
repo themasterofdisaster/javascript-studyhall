@@ -1,5 +1,7 @@
 /*
     ASSERTION STYLES COMPARISON
+
+    https://testautomationu.applitools.com/chai-test-assertions
 */
 
 //import chai to the file by creating a variable: 

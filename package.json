@@ -4,7 +4,7 @@
   "description": "Test project to learn Chai basics",
   "main": "index.js",
   "scripts": {
-    "test": "chai"
+    "test": "mocha"
   },
   "keywords": [
     "mocha",

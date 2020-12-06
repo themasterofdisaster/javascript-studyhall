@@ -21,10 +21,11 @@ To verify that you have successfully installed node enter the following on the t
 `node --version`
 
 Create a project (I created something simple using Visual Studio Code). 
-And add the Chai library to the project by running the following on the terminal
+Add Chai library to your project by navigating to the path of the project:
+`cd devmm/javascipt-studyhall`
 
-Make sure to navigate to the project path
-`npm install chai -save-dev`
+And run the following command to install: 
+`npm isntall chai -save-dev`
 
 
 ### Running Chai Tests
@@ -34,3 +35,26 @@ Simply run the following command from the terminal. Make sure you are in the cor
 `node tests/chai/expect.js`
 
 
+### Language Chains
+
+    to
+    be
+    been
+    is
+    that
+    which
+    and
+    has
+    have
+    with
+    at
+    of
+    same
+    but
+    does
+    still
+
+
+### Sources
+
+https://www.chaijs.com/api/bdd/
