@@ -5,7 +5,7 @@
             It takes two arguments. The first one is the name/description of the test group. The second one is the call back function: A function which will be 
             executed after another function has finished executing. 
 
-        It() - It's an "Individual Testcase". Each It test should be nested within the describe() block.
+        it() - It's an "Individual Testcase". Each It test should be nested within the describe() block.
             It takes two arguments as well. The first one is the name/description of the test case. The second one is the call back function.
 
 
@@ -62,6 +62,7 @@ describe('Mathematical Operations - Test Suite', function(){
 
   });
 
+
   it('Division of two numbers', function(){
 
     var a = 10;
@@ -69,6 +70,7 @@ describe('Mathematical Operations - Test Suite', function(){
 
     var c = a/b;
 
+      //Fails because 10/10 = 1. We're telling it to expect 0. 
     assert.equal(c,0);
 
 
