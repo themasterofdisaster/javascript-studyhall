@@ -25,7 +25,7 @@
 
 var assert = require('assert');
 
-describe('Mathematical Operations - Test Suite', function(){
+describe('Mathematical Operations - Function Calls - Test Suite', function(){
 
   it('Addition of two numbers', function(){
 

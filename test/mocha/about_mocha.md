@@ -35,6 +35,17 @@ From terminal run the following command:
 
 The above will execute all the tests included as part of this particular JavaScript file.
 
+## Mocha Configurations
+
+### Retry 
+Retry is a function available within Mocha to execute the failed test several times.
+
+-You can tell Mocha to execute the failed tests several times according to your requirement. 
+-Retry function is primarily used for End-toEnd tests like Selenium scripts. 
+-Re-runs on beforeEach/afterEach hooks but NOT on before/after hooks. 
+-Retry is not recommended for Unit Tests. 
+
+
 ## Sources
 https://mochajs.org/
 https://testautomationu.applitools.com/mocha-javascript-tests/
